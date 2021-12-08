@@ -6,9 +6,9 @@ These are my implementation of the advent of code 2021 challenges. These puzzles
 ## Advents
 Day 01 - Sonar Sweep (Python)
 Day 02 - Dive! (Python)
-Day 03 -
-Day 04 - 
-Day 05 - 
+Day 03 - Binary Diagnostic (Python)
+Day 04 - Giant Squid
+Day 05 - Hydrothermal Venture
 Day 06 - 
 Day 07 -
 Day 08 -
